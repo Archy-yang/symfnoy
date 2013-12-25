@@ -1,0 +1,5 @@
+/nbproject/
+/vendor/
+*.lock
+.travis.yml
+/web/bundles/
